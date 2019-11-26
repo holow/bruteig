@@ -17,7 +17,6 @@ limit=100
 clear    
 echo   " ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●   "   
 echo   "          Brute IG v.01           "   
-echo   "          NyanCCD           "   
 echo   " ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
